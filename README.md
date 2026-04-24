@@ -17,14 +17,13 @@
 </div>
 
 ---
-
 <div align="center">
 
 ## 🤖 About Me
 
 </div>
 
-<img align="right" width="350" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
+<img align="right" width="380" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Focus&align=center&titleAlign=center&fontSize=22&lineCount=3&theme=tokyonight&line1=embeddedsystems,Embedded%20Systems,00C2FF;arduino,Arduino,00979D;espressif,ESP32,E7352C;&line2=python,Python,3776AB;cplusplus,C++,00599C;javascript,JavaScript,F7DF1E;&line3=autodesk,Fusion%20360,FF6C00;github,GitHub,FFFFFF;linux,Linux,FCC624;" />
 
 - 🎓 High School Student at **SESI**
 - 💻 Systems Development Student at **SENAI Zerbini**
@@ -35,7 +34,6 @@
 > *Building intelligent machines, one project at a time.*
 
 <br clear="right"/>
-
 ---
 
 <div align="center">
