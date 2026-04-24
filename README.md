@@ -105,12 +105,18 @@ Software & Development
 > Building increasingly autonomous robots
 > Exploring Computer Engineering
 > Creating innovative hardware solutions
-<div align="center">
 
 ---
-
+<div align="center">
+  
 ## 📊 GitHub Statistics
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoFG-DEV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoFG-DEV&layout=compact&langs_count=8&theme=tokyonight"/> </div>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoFG-DEV&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github"/> 
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoFG-DEV&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
 <div align="center">
 
 ---
