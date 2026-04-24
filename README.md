@@ -1,6 +1,6 @@
-# Hello, I'm Tiago Gregório! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
-
 <div align="center">
+# Hello World, I'm Tiago Ferreira Gregório! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Robotics+Competitor+since+2022;Embedded+Systems+Developer;Hardware+and+Automation+Enthusiast;Hortobots+Robotics+Team" />
 
