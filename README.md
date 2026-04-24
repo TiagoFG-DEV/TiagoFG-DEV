@@ -124,6 +124,6 @@ Software & Development
 ---
 
 Thanks for visiting! 🚀
-</div> ```
+</div>
 
 ---
