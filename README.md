@@ -120,6 +120,9 @@ Software & Development
 ## 📫 Connect With Me
 <a href="https://github.com/TiagoFG-DEV"> <img src="https://skillicons.dev/icons?i=github" /> </a> <a href="https://www.linkedin.com/"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> </div>
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=TiagoFG-DEV&style=for-the-badge&color=blueviolet"/>
+
+---
+
 Thanks for visiting! 🚀
 </div> ```
 
